@@ -1,0 +1,11 @@
+ticket_id,subject,category,urgency,confidence,routing_team,needs_human_review,reasoning
+T-001,Cannot log into my account,Account & Access,High,0.85,Account Support Team,False,User is locked out of a core function ahead of a time-sensitive client demo.
+T-002,Question about invoice #4521,Billing,Medium,0.8,Billing & Payments Team,False,Duplicate charge dispute with a clear billing question, not an active outage.
+T-003,Feature request: dark mode,Feature Request,Low,0.9,Product Team,False,Explicitly a non-urgent nice-to-have request.
+T-004,App crashes on file upload,Technical / Bug,High,0.88,Engineering / Support Tier 2,False,Reproducible crash causing repeated data loss and workflow disruption.
+T-005,How do I change my billing email,Billing,Low,0.75,Billing & Payments Team,False,Simple how-to question, no urgency indicated.
+T-006,URGENT - production API down,Technical / Bug,Critical,0.95,Engineering / Support Tier 2,False,Explicit production outage affecting customer-facing checkout.
+T-007,General feedback on onboarding,General Feedback,Low,0.82,Customer Success,False,Positive feedback plus a minor UI suggestion.
+T-008,Weird behavior,Other,Medium,0.35,General Support Queue,True,Vague description with no clear category or concrete symptom.
+T-009,Cancel my subscription,Billing,Medium,0.78,Billing & Payments Team,False,Cancellation and refund request, not time-critical but needs action.
+T-010,Data export missing rows,Technical / Bug,Medium,0.55,Engineering / Support Tier 2,True,Plausible bug affecting a report, but could also be a filtering misunderstanding.

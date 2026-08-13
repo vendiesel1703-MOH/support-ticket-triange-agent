@@ -1,0 +1,11 @@
+ticket_id,subject,body
+T-001,Cannot log into my account,"I have tried resetting my password three times but I still get 'invalid credentials' when I log in. This is blocking me from accessing my dashboard for an important client demo in 2 hours."
+T-002,Question about invoice #4521,"Hi, I noticed invoice #4521 charged me twice for the same subscription month. Can you clarify why, and refund the duplicate charge if it's an error?"
+T-003,Feature request: dark mode,"Would love to see a dark mode option in the app settings. Not urgent, just a nice-to-have for late-night work sessions."
+T-004,App crashes on file upload,"Every time I try to upload a CSV larger than 10MB, the app crashes completely and I lose my unsaved work. This has happened 5 times today and is seriously affecting my team's workflow."
+T-005,How do I change my billing email,"I need to update the email address that receives billing notifications. Can someone point me to where I do this or do it for me?"
+T-006,URGENT - production API down,"Our production integration with your API has been returning 500 errors for the last 20 minutes. All our customer-facing checkout flow is broken. Please escalate immediately."
+T-007,General feedback on onboarding,"Just wanted to say the onboarding flow was smooth and easy to follow. Small suggestion: the tooltip on step 3 overlaps with the button text."
+T-008,Weird behavior,"Something is off with my account, not sure what exactly. Things just seem slow and sometimes buttons don't respond. Not sure if it's on my end or yours."
+T-009,Cancel my subscription,"I want to cancel my subscription effective immediately and would like a prorated refund for the unused period this month."
+T-010,Data export missing rows,"I exported my analytics data for Q2 and noticed about 200 rows are missing compared to what's shown on the dashboard. This is affecting a report I need to submit to my manager."
